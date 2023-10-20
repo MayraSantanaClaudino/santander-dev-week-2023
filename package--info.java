@@ -1,0 +1,1 @@
+package me.dio.domain.repository;
